@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel PRUEBA DE GIT now
+                    Lar other PRUEBA DE GIT now 
                 </div>
 
                 <div class="links">
